@@ -7,4 +7,4 @@ Create a project that will push personal development of new skillsets that are r
 Life Coach (LC) will be an AWS Connect application that will attempt to provide a positive outcome to be able to reach personal goals. The intention is to provide daily motivation, scheduling, and insights provided by machine learning to reach the goals set by the end user.   
 
 # AWS and 3rd party services involved:
-Connect / API Gateway / Comprehend / Lambda / Dynamo DB / Kinesis Data Stream / Kinesis Video Streams /  Transcribe / Simple Notification Services / Secrets Manager / S3 / Poly / EC2 / Lex / Cloudwatch / Cloud Formation / Sagemaker Personalize / Twilio SMS / Identity and Access Management 
+Connect / API Gateway / Comprehend / Lambda / Dynamo DB / Kinesis Data Stream / Kinesis Video Streams /  Transcribe / Simple Notification Services / Secrets Manager / S3 / Poly / EC2 / Lex / Cloudwatch / Cloud Formation / Sagemaker Studio / Twilio SMS / Identity and Access Management 
