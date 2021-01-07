@@ -7,10 +7,10 @@ Create a project that will push personal development of new skillsets that are r
 Life Coach (LC) will be an AWS Connect application that will attempt to provide a positive outcome to be able to reach personal goals. The intention is to provide daily motivation, scheduling, and insights provided by AI, Data Analytics, and Machine Learning to reach the goals set by the end user.
 
 # Milestones  
-Milestone 1 - Core build and Basic Demo
-Milestone 2 - Integration with Fitbit APIs, WinReality and Diamond Kinetics metrics(Data Analytics and Machine Learning)
-Milestone 3 - Creation of and integration with mobile app powered by Elite Funtional Performance
-Milestone 4 - Integration to nutrition, welness services, and blode panels for (CBC), CMP-14, Aldolase, Testerone Free with Total Testosterone, (CRP,hs) metrics.
+* Milestone 1 - Core build and Basic Demo
+* Milestone 2 - Integration with Fitbit APIs, WinReality and Diamond Kinetics metrics(Data Analytics and Machine Learning)
+* Milestone 3 - Creation of and integration with mobile app powered by Elite Funtional Performance
+* Milestone 4 - Integration to nutrition, welness services, and blode panels for (CBC), CMP-14, Aldolase, Testerone Free with Total Testosterone, (CRP,hs) metrics.
 
  
 # AWS and 3rd party services involved:
