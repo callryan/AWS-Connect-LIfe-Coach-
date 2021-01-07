@@ -15,7 +15,7 @@ Life Coach (LC) will be an AWS Connect application that will attempt to provide 
 
 # Project Milestones  
 * Milestone 1 - Core build and Basic Demo
-* Milestone 2 - Integration with Calendar APIS, Fitbit APIs, WinReality and Diamond Kinetics metrics(Data Analytics and Machine Learning)
+* Milestone 2 - Integration with Calendar APIs, Fitbit APIs, WinReality and Diamond Kinetics metrics(Data Analytics and Machine Learning)
 * Milestone 3 - Creation of and integration with mobile app powered by Elite Funtional Performance
 * Milestone 4 - Integration to nutrition, welness services, and blode panels for (CBC), CMP-14, Aldolase, Testerone Free with Total Testosterone, (CRP,hs) metrics.
 
