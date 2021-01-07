@@ -2,7 +2,7 @@
 Conceptual project that utilizes AWS Connect and the AWS eco-system as a Life Coach application
 
 # Ideation:
-Create a project that will push personal development of new skillsets that are required for the AWS connect portfolio. Concentration of obtaining AWS certifications from Foundational to Profesional along with Specialty certifications and additional skill sets.
+Create a project that will push personal development of new skillsets that are required for the AWS eco-system and connect portfolio. Concentration of obtaining AWS certifications from Foundational to Profesional along with Specialty certifications and additional skill sets.
 | Certifications | Additional Skill Sets |
 | :----: | :---: |
 | AWS Cloud Practitioner | Python3 |    
@@ -21,4 +21,4 @@ Life Coach (LC) will be an AWS Connect application that will attempt to provide 
 
  
 # AWS and 3rd party services involved:
-Connect / API Gateway / Comprehend / Lambda / Dynamo DB / Kinesis Data Stream / Kinesis Video Streams /  Transcribe / Simple Notification Services / Secrets Manager / S3 / Poly / EC2 / Lex / Cloudwatch / Cloud Formation / Sagemaker Studio / Twilio SMS / IAM
+Connect / API Gateway / Comprehend / Lambda / Dynamo DB / Kinesis Data Stream / Kinesis Video Streams /  Transcribe / Simple Notification Services / Secrets Manager / S3 / Poly / EC2 / Lex / Cloudwatch / Cloud Formation / Sagemaker Studio / Twilio SMS / IAM / EC2
