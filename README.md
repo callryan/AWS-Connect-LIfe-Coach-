@@ -5,12 +5,12 @@ Conceptual project that utilizes AWS Connect and the AWS eco-system as a Life Co
 Create a project that will push personal development of new skillsets that are required for the AWS eco-system and connect portfolio. Concentration of obtaining AWS certifications from Foundational to Profesional along with Specialty certifications and additional skill sets.
 | Certifications | Additional Skill Sets |
 | :----: | :---: |
-| <span style="color:blue">AWS Cloud Practitioner</span>  | Python3 |    
-| <span style="color:blue">AWS Solutions Architect Associate </span> | Node.js | 
+| *AWS Cloud Practitioner | Python3 |    
+| *AWS Solutions Architect Associate | Node.js | 
 | AWS Developer Associate | Visual Studio |
 | AWS SysOps Admin Associate | AI |
-| AWS Solutions Architect Professional | APIs |  
-| AWS Machine Learning Specialty | NLP/NLU |              
+| AWS Solutions Architect Professional | *APIs |  
+| AWS Machine Learning Specialty | *NLP/NLU |              
 | AWS Data Analytics Specialty |  |
   
 Life Coach (LC) will be an AWS Connect application that will attempt to provide a positive outcome to be able to reach personal goals. The intention is to provide daily motivation, scheduling, and insights provided by AI, Data Analytics, and Machine Learning to reach the goals set by the end user.
