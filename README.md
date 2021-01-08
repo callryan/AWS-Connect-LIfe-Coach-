@@ -5,8 +5,8 @@ Conceptual project that utilizes AWS Connect and the AWS eco-system as a Life Co
 Create a project that will push personal development of new skillsets that are required for the AWS eco-system and connect portfolio. Concentration of obtaining AWS certifications from Foundational to Profesional along with Specialty certifications and additional skill sets.
 | Certifications | Additional Skill Sets |
 | :----: | :---: |
-| AWS Cloud Practitioner | Python3 |    
-| AWS Solutions Architect Associate | Node.js | 
+| <span style="color:blue">AWS Cloud Practitioner</span>  | Python3 |    
+| <span style="color:blue">AWS Solutions Architect Associate </span> | Node.js | 
 | AWS Developer Associate | Visual Studio |
 | AWS SysOps Admin Associate | AI |
 | AWS Solutions Architect Professional | APIs |  
