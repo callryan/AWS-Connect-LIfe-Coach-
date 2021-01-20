@@ -7,7 +7,7 @@ Create a project that will push personal development of new skillsets that are r
 | :----: | :---: |
 | *AWS Cloud Practitioner | Python3 |    
 | *AWS Solutions Architect Associate | Node.js | 
-| AWS Developer Associate | Visual Studio |
+| *AWS Developer Associate | Visual Studio |
 | AWS SysOps Admin Associate | AI |
 | AWS Solutions Architect Professional | *APIs |  
 | AWS Machine Learning Specialty | *NLP/NLU |              
