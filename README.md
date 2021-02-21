@@ -8,7 +8,7 @@ Create a project that will push personal development of new skillsets that are r
 | *AWS Cloud Practitioner | Python3 |    
 | *AWS Solutions Architect Associate | Node.js | 
 | *AWS Developer Associate | Visual Studio |
-| AWS Data Analytics Specialty | AI |
+| *AWS Data Analytics Specialty | AI |
 | AWS Machine Learning Specialty | *APIs |  
 | AWS Advanced Networking Specialty | *NLP/NLU |              
 | AWS Solutions Architect Professional |  |
